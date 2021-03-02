@@ -1,0 +1,4 @@
+slanguageCode = "en-us"
+title = "DataViz"
+theme = "PaperMod"
+publishDir = "docs"
