@@ -1,5 +1,5 @@
 slanguageCode = "en-us"
-baseURL = "https://ldorigo.github.io/"
+baseURL = "https://ldorigo.github.io/dataviz_website_demo/"
 title = "DataViz"
 theme = "PaperMod"
 publishDir = "docs"
