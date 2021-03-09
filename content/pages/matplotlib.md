@@ -1,7 +1,11 @@
 ---
-title: "Somevizs"
+title: "Matplotlib"
 date: 2021-03-02T10:15:26+01:00
 draft: False
 ---
 
-# Welcome to the DataViz Website!
+# A little matplotlib figure
+
+I present to you, the wonders of the parabola:
+
+![figure](/pltfig.png)]
