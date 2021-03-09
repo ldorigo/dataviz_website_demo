@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://ldorigo.github.io/</loc>
     <lastmod>2021-03-02T10:15:26+01:00</lastmod>
   </url><url>
-    <loc>/pages/</loc>
+    <loc>https://ldorigo.github.io/pages/</loc>
     <lastmod>2021-03-02T10:15:26+01:00</lastmod>
   </url><url>
-    <loc>/pages/somevizs/</loc>
+    <loc>https://ldorigo.github.io/pages/somevizs/</loc>
     <lastmod>2021-03-02T10:15:26+01:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://ldorigo.github.io/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://ldorigo.github.io/tags/</loc>
   </url>
 </urlset>
