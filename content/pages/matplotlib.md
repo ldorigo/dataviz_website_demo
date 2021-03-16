@@ -8,4 +8,5 @@ draft: False
 
 I present to you, the wonders of the parabola:
 
-![figure](/images/pltfig.png)
+![figure](/pltfig.png)
+
