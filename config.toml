@@ -3,3 +3,5 @@ baseURL = "https://ldorigo.github.io/dataviz_website_demo"
 title = "DataViz"
 theme = "PaperMod"
 publishDir = "docs"
+[markup.goldmark.renderer]
+    unsafe = true
